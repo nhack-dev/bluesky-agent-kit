@@ -1,0 +1,6 @@
+.env
+data/*
+!data/.gitkeep
+config/profile.md
+__pycache__/
+*.pyc
